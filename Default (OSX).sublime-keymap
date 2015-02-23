@@ -1,0 +1,9 @@
+[{
+	"keys": ["super+alt+w"],
+	"command": "wp_style",
+	"context": [{
+		"key": "selector",
+		"operator": "equal",
+		"operand": "source.js,source.jsx"
+	}]
+}]
